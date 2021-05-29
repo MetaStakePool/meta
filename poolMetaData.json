@@ -2,6 +2,7 @@
 "name": "Meta Stake Pool",
 "description": "So Meta...",
 "ticker": "META",
-"homepage": "https://www.metastakepool.com/"
+"homepage": "https://www.metastakepool.com/",
+"extended": "https://raw.githubusercontent.com/MetaStakePool/meta/main/extended.json" 
 }
  
