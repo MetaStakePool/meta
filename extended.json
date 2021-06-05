@@ -5,7 +5,7 @@
 		"location": "Pennsylvania, USA",
 		"social": {
 			"twitter_handle": "theeccentricowl",
-			"telegram_handle": "neutross",
+			"telegram_handle": "MetaStakePool",
 			"facebook_handle": "",
 			"youtube_handle": "/channel/UCZ3F2jc14r9zF34BGSkJzoQ",
 			"twitch_handle": "",
@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "Mechanical Engineer turned IT Pro focused on Digital Transformation & Blockchain Tech.  I've been an avid Cardano-follower since 2017 and know good tech when I see it!  Would like to help engage new users to the Cardano Eco System and educate people on the next iteration of the Internet!",
-			"server": "Bare Metal Servers: on-prem & cloud-based",
+			"server": "Enterprise-grade hardware:  1 Core & 2 Relays",
 			"company": ""
 		},
 		"my-pool-ids": {
@@ -34,7 +34,7 @@
 			"1": ""
 		},
 		"telegram-admin-handle": {
-			"0": "neutross"
+			"0": "MetaStakePool"
 		},
 		"adapools_ext": {
 			"prometheus": {
