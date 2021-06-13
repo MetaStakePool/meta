@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "",
-		"url_png_logo": "",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/MetaStakePool/meta/main/profile.png",
+		"url_png_logo": "https://raw.githubusercontent.com/MetaStakePool/meta/main/profile.png",
 		"location": "Pennsylvania, USA",
 		"social": {
 			"twitter_handle": "theeccentricowl",
